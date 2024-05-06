@@ -27,7 +27,7 @@ Configuration of ElastiCache for caching data to improve application performance
 ## Deployment Instructions ⬇️
 1. Clone the GitHub repository containing the Terraform code.
 2. Set up AWS credentials with appropriate permissions for Terraform.
-3. Navigate to lab2 directory and execute terraform init followed by terraform apply to create the infrastructure.
+3. Execute terraform init followed by terraform apply to create the infrastructure.
 
 ## Usage
 Ensure that all necessary variables are set correctly in the respective .tfvars files for each environment.
