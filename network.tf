@@ -1,5 +1,5 @@
 module "network" {
-  source = "E:/ITI - 9 months/Course32_Terraform/Lec2/terraform/lab2/network-module"
+  source = "E:/ITI - 9 months/Course32_Terraform/Lec2/terraform/network-module"
   region = var.region
   vpc_cidr = var.vpc_cidr
   public_subnet_cidr = var.public_subnet_cidr
